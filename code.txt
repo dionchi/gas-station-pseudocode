@@ -10,5 +10,9 @@ Fill up gas tank
     open fuel gasket
     insert nozzel into tank opening
     Until gas is full engage nozzel
+    remove nozzel from tank
+    place nozzel back to original position at pump
+    close the fuel casket
+    
 
 
