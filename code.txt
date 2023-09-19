@@ -1,0 +1,6 @@
+# filling up gas tank at gas station
+Fill up gas tank
+    turn off car engine
+    insert credit card at fuel pump
+    select "fill up to $250" option
+
