@@ -3,4 +3,12 @@ Fill up gas tank
     turn off car engine
     insert credit card at fuel pump
     select "fill up to $250" option
+    Until screen displays "please lift nozzel to fuel"
+        select no to all options
+    select fuel grade = 87
+    lift nozzel from pump
+    open fuel gasket
+    insert nozzel into tank opening
+    Until gas is full engage nozzel
+
 
